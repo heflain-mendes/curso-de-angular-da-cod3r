@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+    
+}
+
+mat-icon.edit{
+    color: #d9cd26;
+    margin-right: 10px;
+}
+
+mat-icon.delete{
+    color: #e35e6b;
+}
